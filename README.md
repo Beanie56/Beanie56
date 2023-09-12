@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Beanie56
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning coding in Roblox Stuido, But I want to learn GDscript
